@@ -16,3 +16,6 @@
 .textColor{
     color: #FFFFFF;
 }
+section h1:hover{
+    text-decoration-line: underline;
+}
