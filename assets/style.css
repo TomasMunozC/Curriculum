@@ -10,5 +10,9 @@
 .footColor{
     background-color: #212529;
     color: #FFFFFF;
-    margin-bottom: 0px;
+    height: 8rem;
+}
+
+.textColor{
+    color: #FFFFFF;
 }
